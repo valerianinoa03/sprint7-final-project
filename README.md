@@ -32,7 +32,7 @@ El objetivo de la empresa es identificar patrones de uso, detectar comportamient
 En Github:
 1. Haz click en el archivo `.ipynb` en GitHub
 
-[Link Archivo Github ](S7 Version-Estudiante-Project-ConnectaTel.ipynb)
+[Link Archivo Github](https://github.com/valerianinoa03/sprint7-final-project/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
 
 En Colab:
 3. Haz clic en el siguiente botón:
