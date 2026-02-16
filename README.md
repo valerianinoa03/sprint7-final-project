@@ -29,10 +29,10 @@ El objetivo de la empresa es identificar patrones de uso, detectar comportamient
 - ¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
 
 ## Cómo ejecutar el notebook
-1. Abre el archivo `.ipynb` en GitHub
-2. Haz clic en **Open in Colab**
+En Github:
+1. Haz click en el archivo `.ipynb` en GitHub
 
-Alternativamente
+En Colab:
 3. Haz clic en el siguiente botón:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LfKVW-KR4OIMVMacFDfG5nx74INgN6c5?usp=sharing)
