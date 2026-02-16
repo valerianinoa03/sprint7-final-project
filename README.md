@@ -30,12 +30,12 @@ El objetivo de la empresa es identificar patrones de uso, detectar comportamient
 
 ## Cómo ejecutar el notebook
 En Github:
-1. Haz click en el archivo `.ipynb` en GitHub
+1. Haz click en el archivo `.ipynb` en GitHub:
 
 [Link Archivo Github](https://github.com/valerianinoa03/sprint7-final-project/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
 
-En Colab:
-3. Haz clic en el siguiente botón:
+2. En Colab:
+Haz clic en el siguiente botón:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LfKVW-KR4OIMVMacFDfG5nx74INgN6c5?usp=sharing)
 
